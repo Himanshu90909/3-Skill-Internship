@@ -41,4 +41,7 @@ Exploratory Data Analysis (EDA) is the process of examining data to understand i
 
 Statistical analysis involves collecting, organizing, summarizing, and interpreting data using mathematical techniques. It helps identify trends, relationships, and probabilities within datasets. Common methods include mean, median, standard deviation, correlation, regression, and hypothesis testing for making informed decisions.
 
+### SQL Analytics
+
+SQL (Structured Query Language) is the foundation of data analytics, enabling analysts to retrieve, clean, transform, and analyze data stored in relational databases. It is widely used to filter records, join multiple tables, calculate key business metrics, identify trends, and generate reports. With SQL, data analysts can uncover valuable insights that support informed business decisions. Essential concepts include SELECT, WHERE, GROUP BY, JOIN, HAVING, subqueries, window functions, and aggregate functions. SQL integrates seamlessly with visualization tools like Power BI and Tableau, making it an indispensable skill for building dashboards, performing business analysis, and solving real-world data challenges.
 
