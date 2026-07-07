@@ -41,5 +41,4 @@ Exploratory Data Analysis (EDA) is the process of examining data to understand i
 
 Statistical analysis involves collecting, organizing, summarizing, and interpreting data using mathematical techniques. It helps identify trends, relationships, and probabilities within datasets. Common methods include mean, median, standard deviation, correlation, regression, and hypothesis testing for making informed decisions.
 
-I can continue with **Topics 11–20** in the same detailed format.
 
